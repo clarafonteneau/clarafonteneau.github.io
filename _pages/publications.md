@@ -19,11 +19,11 @@ header:
 	</div>
 </div>
 
-### <a name="articles"></a> Articles
+## ***<a name="articles"></a> Articles***
 #### Coming soon
-**Fonteneau Clara**, Mondino Marine, Arns Martijn, Baeken Chris, Bikson Marom, Brunoni Andre R, Burke Matthew J, Neuvonen Tuomas, Padberg Frank, Pascual-Leone Alvaro, Poulet Emmanuel, Ruffini Giulio, Santarnecchi Emiliano, Sauvaget Anne, Schellhorn Klaus, Suaud-Chagny Marie-Francoise, Palm Ulrich, Brunelin Jérome; Sham tDCS: a hidden source of variability? Reflections for further blinded, controlled trials; Brain Stimulation; under review
+**Fonteneau Clara**, Mondino Marine, Arns Martijn, Baeken Chris, Bikson Marom, Brunoni Andre R, Burke Matthew J, Neuvonen Tuomas, Padberg Frank, Pascual-Leone Alvaro, Poulet Emmanuel, Ruffini Giulio, Santarnecchi Emiliano, Sauvaget Anne, Schellhorn Klaus, Suaud-Chagny Marie-Francoise, Palm Ulrich, Brunelin Jérome; Sham tDCS: a hidden source of variability? Reflections for further blinded, controlled trials; Brain Stimulation; *under review*
 
-**Fonteneau Clara**, Merida Ines, Redouté Jérome, Haesebaert Frédéric, Le Bars Didier, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie-Françoise; Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy humans: a simultaneous PET-MR approach (in preparation)
+**Fonteneau Clara**, Merida Ines, Redouté Jérome, Haesebaert Frédéric, Le Bars Didier, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie-Françoise; Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy humans: a simultaneous PET-MR approach (*in preparation*)
 
 #### 2018
 **Fonteneau Clara**, Redouté Jérome, Haesebaert Frédéric, Le Bars Didier, Costes Nicolas, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2018) Frontal transcranial direct current stimulation induces dopamine release in the ventral striatum in human, Cerebral Cortex [doi](https://doi.org/10.1093/cercor/bhy093) [pdf](/Papers/Fonteneau_2018.pdf)
@@ -36,15 +36,15 @@ Psomiades Marion, **Fonteneau Clara**, Mondino Marine, Luck David, Haesebaert Fr
 #### 2014
 Bidet-Caulet A, Bottemanne L, **Fonteneau C**, Giard M-H, Bertrand O (2014) Brain Dynamics of Distractibility: Interaction Between Top-Down and Bottom-Up Mechanisms of Auditory Attention. Brain Topography [doi](http://dx.doi.org/10.1007/s10548-014-0354-x) [pdf](/Papers/Bidet-Caulet_2013.pdf)
 
-### <a name="reviews"></a> Reviews, Chapters & Commentaries
+## ***<a name="reviews"></a> Reviews, Chapters & Commentaries***
 #### 2016
 Psomiades Marion, **Fonteneau Clara**, Suaud-Chagny Marie-Françoise, Haesebaert Frédéric, Brunelin Jérôme (2015) Neurostimulation du cortex préfrontal dorsolatéral : quels effets sur la symptomatologie et les émotions dans la dépression et la schizophrénie ? ; Santé mentale au Québec; co-author [doi](http://dx.doi.org/10.7202/1036972ar) [pdf](/Papers/Psomiades_Rev_2016.pdf)
 
 #### 2015
 Mondino Marine, **Fonteneau Clara**, Brunelin Jérome (2015) Schizophrenia. Book Chapter in Transcranial Direct Current Stimulation in Neuropsychiatric Disorders: Clinical Principles and Management by Brunoni AR, Nitsche MA, Loo CK. Springer NY, USA [doi](https://doi.org/10.1007/978-3-319-33967-2) [pdf](/Papers/Mondino_Chap_2015.pdf)
 
-### <a name="talks"></a> Talks
-#### 2017
+## ***<a name="talks"></a> Talks***
+### 2017
 Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy subjects: a PET-MR multimodal imaging approach
 NeuroImaging Journal Club, CRNL, Lyon Journée Scientifique LILI – IRM-TEP, Lyon
 
@@ -54,18 +54,18 @@ Annual Scientific Meeting, Doctoral School of Neuroscience and Cognition, Lyon
 L’exploration des méthodes de modélisation TEP dans le cas de déplacement par un neurotransmetteur endogène (approche lp-ntPET)
 Journal Club CERMEP, Lyon
 
-#### 2016
+### 2016
 Effets de la stimulation transcrânienne en courant continu sur la transmission dopaminergique chez le sujet sain
 Partenariat Université Lyon 2 et Conseil scientifique de la recherche CH Le Vinatier, Lyon
 
 Neurophysiological impact of transcranial direct current stimulation (tDCS) in healthy subjects
 Berenson-Allen Center for NonInvasive Brain Stimulation, Boston
 
-#### 2015
+### 2015
 Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy subjects: a multimodal imaging approach
 Conseil scientifique de la Fondation Neurodis, Lyon
 
-### <a name="posters"></a> Posters
+## ***<a name="posters"></a> Posters***
 **Fonteneau Clara**, Merida Inès, Redouté Jérome, Haesebaert Frédéric, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie- Françoise; Neurophysiological impact of a fronto-temporal transcranial direct current stimulation in healthy subjects: a multimodal PET-MR imaging approach; Poster presented at Non Invasive Brain stimulation techniques (NIBS) for psychiatric disorders; Munich, Germany; October 2017 [Abstract](/Papers/2017_Abstract_COMBISTIM_ECBSP.pdf) [Poster](/Papers/2017_Poster_COMBISTIM_ECBSP.pdf)
 
 Merida Inés, **Fonteneau Clara**, Reilhac Anthonin, Redouté Jérôme, Irace Zacharie, Suaud-Chagny Marie-Françoise, Hammers Alexander, Costes Nicolas; Motion correction and multi-atlas attenuation correction applied to a simultaneous bolus/infusion PET-MR brain study; Talk given (by I. Merida) at 6th PET-MRI and SPECT-MRI (PSMR) Conference; Lisbon, Portugal, May 2017 [Abstract](/Papers/2017_Abstract_PSMR.pdf)
@@ -85,7 +85,7 @@ Reilhac Anthonin, Berrada Rania, Irace Zacharie, Merida Inés, **Fonteneau Clar
 Psomiades Marion, **Fonteneau Clara**, Haesebaert Frédéric, Suaud-Chagny Marie-Françoise, Brunelin Jérôme. Does prefrontal non invasive brain stimulation alleviating symptoms in depression and schizophrenia impact emotion processing ?; Poster presented at Non Invasive Brain stimulation techniques (NIBS) for psychiatric disorders Ghent, Belgium; December 2015 [Abstract](/Papers/2015_Abstract_Emotion_Ghent.pdf) [Poster](/Papers/2015_Poster_Emotion_Ghent.pdf)
 
 
-### <a name="thesis"></a> Dissertation
+## ***<a name="thesis"></a> Dissertation***
 Dissertation: **Fonteneau Clara** Impact of a single frontal transcranial direct current stimulation on the dopaminergic network in healthy subjects [pdf](/Papers/ThesisDissertation.pdf)
 
 Master 2 thesis: **Fonteneau Clara** Mechanisms of attentional preparation in the auditory cortex
