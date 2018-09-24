@@ -21,13 +21,17 @@ header:
 
 ### <a name="articles"></a> Articles
 #### Coming soon
-#### 2018
-**Fonteneau Clara**, Redouté Jérome, Haesebaert Frédéric, Le Bars Didier, Costes Nicolas, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2018) Frontal transcranial direct current stimulation induces dopamine release in the ventral striatum in human, Cerebral Cortex, Volume 28, Issue 7, 1 July 2018, Pages 2636–2646, [doi](https://doi.org/10.1093/cercor/bhy093) [pdf](/Papers/Fonteneau_2018.pdf)
+**Fonteneau Clara**, Mondino Marine, Arns Martijn, Baeken Chris, Bikson Marom, Brunoni Andre R, Burke Matthew J, Neuvonen Tuomas, Padberg Frank, Pascual-Leone Alvaro, Poulet Emmanuel, Ruffini Giulio, Santarnecchi Emiliano, Sauvaget Anne, Schellhorn Klaus, Suaud-Chagny Marie-Francoise, Palm Ulrich, Brunelin Jérome; Sham tDCS: a hidden source of variability? Reflections for further blinded, controlled trials; Brain Stimulation; under review
 
-Psomiades Marion, Mondino Marine, **Fonteneau Clara**, Bation Rémy, Haesebaert Fréderic, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2018) N-Acetyl-Aspartate in the dorsolateral prefrontal cortex in men with schizophrenia and auditory verbal hallucinations: A 1.5T Magnetic Resonance Spectroscopy Study; Scientific Report (2018) [doi](http://dx.doi.org/10.1038/s41598-018-22597-y) [pdf](/Papers/Psomiades_2018.pdf)
+**Fonteneau Clara**, Merida Ines, Redouté Jérome, Haesebaert Frédéric, Le Bars Didier, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie-Françoise; Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy humans: a simultaneous PET-MR approach (in preparation)
+
+#### 2018
+**Fonteneau Clara**, Redouté Jérome, Haesebaert Frédéric, Le Bars Didier, Costes Nicolas, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2018) Frontal transcranial direct current stimulation induces dopamine release in the ventral striatum in human, Cerebral Cortex [doi](https://doi.org/10.1093/cercor/bhy093) [pdf](/Papers/Fonteneau_2018.pdf)
+
+Psomiades Marion, Mondino Marine, **Fonteneau Clara**, Bation Rémy, Haesebaert Fréderic, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2018) N-Acetyl-Aspartate in the dorsolateral prefrontal cortex in men with schizophrenia and auditory verbal hallucinations: A 1.5T Magnetic Resonance Spectroscopy Study; Scientific Report [doi](http://dx.doi.org/10.1038/s41598-018-22597-y) [pdf](/Papers/Psomiades_2018.pdf)
 
 #### 2016
-Psomiades Marion, **Fonteneau Clara**, Mondino Marine, Luck David, Haesebaert Frederic, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2016) Integrity of the arcuate fasciculus in patients with schizophrenia with and without auditory verbal hallucinations: A DTI-tractography study; NeuroImage: Clinical 12 (2016) 970–975 [doi](http://dx.doi.org/10.1016/j.nicl.2016.04.013) [pdf](/Papers/Psomiades_2016.pdf)
+Psomiades Marion, **Fonteneau Clara**, Mondino Marine, Luck David, Haesebaert Frederic, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2016) Integrity of the arcuate fasciculus in patients with schizophrenia with and without auditory verbal hallucinations: A DTI-tractography study; NeuroImage: Clinical [doi](http://dx.doi.org/10.1016/j.nicl.2016.04.013) [pdf](/Papers/Psomiades_2016.pdf)
 
 #### 2014
 Bidet-Caulet A, Bottemanne L, **Fonteneau C**, Giard M-H, Bertrand O (2014) Brain Dynamics of Distractibility: Interaction Between Top-Down and Bottom-Up Mechanisms of Auditory Attention. Brain Topography [doi](http://dx.doi.org/10.1007/s10548-014-0354-x) [pdf](/Papers/Bidet-Caulet_2013.pdf)
