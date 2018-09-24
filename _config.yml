@@ -107,7 +107,7 @@ author:
   email            : "fonteneau.clara@gmail.com"
   uri              : "https://clarafonteneau.github.io/"
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        : 
+  bitbucket        : #fonteneau.clara@gmail.com
   codepen          :
   dribbble         :
   flickr           :
@@ -131,6 +131,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  google_scholar   : # add google_scholar address
 
 
 # Reading Files
