@@ -25,65 +25,71 @@ header:
 
 ## Coming soon
 
-**Forest Jeremy**, Midroit Maellie, Terrier Claire, Caillé Isabelle, Sacquet Joelle, Martin Kilian, Richard Marion, Didier Anne, Mandairon Nathalie Role of adult-born versus preexisting neurons in olfactory perception in complex olfactory environment.
-
-**Forest Jeremy**, Moreno Melissa, Ziessel Anne, Cavelus Matthias, Sacquet Joelle, Richard Marion, Didier Anne, Mandairon Nathalie. Adultborn neurons underlie competition between transience and persistence of olfactory perceptual memory.
-
-Midroit Maellie, Chalençon Laura, Thevenet Marc, Sacquet Joelle, **Forest Jeremy**, Richard Marion, Adrianna Milton, Didier Anne, Wesson Dan, Mandairon Nathalie The reward system supports spontaneous attraction to odorants.
-
-
 #### 2018
-Mandairon Nathalie, Kuczewski Nicola, Kermen Florence, **Forest Jeremy**, Midroit Maellie, Richard Marion, Thevenet Marc, Sacquet Joelle, Linster Christiane, Didier Anne (2018) Opposite regulation of inhibition by adult-born granule cells during implicit versus explicit olfactory learning. eLIFE 2018;7:e34976. [doi](https://doi.org/10.7554/eLife.34976) [pdf](/Papers/Mandairon2018.pdf)
+**Fonteneau Clara**, Redouté Jérome, Haesebaert Frédéric, Le Bars Didier, Costes Nicolas, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2018) Frontal transcranial direct current stimulation induces dopamine release in the ventral striatum in human, Cerebral Cortex, Volume 28, Issue 7, 1 July 2018, Pages 2636–2646, [doi](https://doi.org/10.1093/cercor/bhy093) [pdf](/Papers/Fonteneau_2018.pdf)
 
-#### 2017
-Sunada Hiroshi, Watanabe Takayuki, Hatakeyama Dai, Lee Sangmin, **Forest Jeremy**, Sakakibara Manubu, Ito Etwuro, Lukowiak Ken (2017) Pharmacological effects of cannabinoids on learning and memory in Lymnaea. Journal of Experimental Biology 220 3026-3038. [doi](https://doi.org/10.1242/jeb.159038) [pdf](/Papers/Sunada2017.pdf)
+Psomiades Marion, Mondino Marine, **Fonteneau Clara**, Bation Rémy, Haesebaert Fréderic, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2018) N-Acetyl-Aspartate in the dorsolateral prefrontal cortex in men with schizophrenia and auditory verbal hallucinations: A 1.5T Magnetic Resonance Spectroscopy Study; Scientific Report (2018) [doi](http://dx.doi.org/10.1038/s41598-018-22597-y) [pdf](/Papers/Psomiades_2018.pdf)
 
 #### 2016
-**Forest Jeremy**, Sunada Hiroshi, Dodd Shawn, Lukowiak Ken (2016) Training Lymnaea in the presence of a predator scent results in a long-lasting ability to form enhanced long-term memory. J.Comp.Physiol A 202:399-409. [doi](https://doi.org/10.1007/s00359-016-1086-z) [pdf](/Papers/Forest2016.pdf)
+Psomiades Marion, **Fonteneau Clara**, Mondino Marine, Luck David, Haesebaert Frederic, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2016) Integrity of the arcuate fasciculus in patients with schizophrenia with and without auditory verbal hallucinations: A DTI-tractography study; NeuroImage: Clinical 12 (2016) 970–975 [doi](http://dx.doi.org/10.1016/j.nicl.2016.04.013) [pdf](/Papers/Psomiades_2016.pdf)
 
-Kermen Florence, Midroit Maellie, Kuczewski Nicola, **Forest Jeremy**, Thevenet Marc, Sacquet Joelle, Benetollo Claire, Richard Marion, Didier Anne, Mandairon Nathalie (2016) Topographical representation of odor hedonics in the olfactory bulb. Nature Neuroscience 19,7,876:880. [doi](https://doi.org/10.1038/nn.4317) [pdf](/Papers/Kermen2016.pdf)
+#### 2014
+Bidet-Caulet A, Bottemanne L, **Fonteneau C**, Giard M-H, Bertrand O (2014) Brain Dynamics of Distractibility: Interaction Between Top-Down and Bottom-Up Mechanisms of Auditory Attention. Brain Topography [doi](http://dx.doi.org/10.1007/s10548-014-0354-x) [pdf](/Papers/Bidet-Caulet_2013.pdf)
 
+### <a name="reviews"></a> Reviews, Chapters & Commentaries
 
+#### 2016
+Psomiades Marion, **Fonteneau Clara**, Suaud-Chagny Marie-Françoise, Haesebaert Frédéric, Brunelin Jérôme (2015) Neurostimulation du cortex préfrontal dorsolatéral : quels effets sur la symptomatologie et les émotions dans la dépression et la schizophrénie ? ; Santé mentale au Québec; co-author [doi](http://dx.doi.org/10.7202/1036972ar) [pdf](/Papers/Psomiades_Rev_2016.pdf)
 
-### <a name="reviews"></a> Reviews
-
-**Forest Jeremy**, Midroit Maellie, Mandairon Nathalie (2017) La plasticité hors du commun du système olfactif. Pollution atmosphérique n°234 avril-juin 2017. [doi](https://doi.org/10.4267/pollution-atmospherique.5247) [pdf](/Papers/Forest2017.pdf)
-
+#### 2015
+Mondino Marine, **Fonteneau Clara**, Brunelin Jérome (2015) Schizophrenia. Book Chapter in Transcranial Direct Current Stimulation in Neuropsychiatric Disorders: Clinical Principles and Management by Brunoni AR, Nitsche MA, Loo CK. Springer NY, USA [doi](https://doi.org/10.1007/978-3-319-33967-2) [pdf](/Papers/Mondino_Chap_2015.pdf)
 
 ### <a name="talks"></a> Talks
 
-**Forest Jeremy**, Caillé Isabelle, Sacquet Joelle, Richard Marion, Didier Anne and Mandairon Nathalie. Functional and structural plasticity of adult-born versus preexisting granule cells of the olfactory bulb during simple and complex perceptual learning in mice. Society for Neuroscience 47th annual meeting, Washington, USA, November 2017. [pdf](/Papers/ForestTalk2017c.pdf)
+#### 2017
+Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy subjects: a PET-MR multimodal imaging approach
+NeuroImaging Journal Club, CRNL, Lyon Journée Scientifique LILI – IRM-TEP, Lyon
 
-**Forest Jeremy**. Neuronal plasticity in the olfactory bulb during simple and complex perceptual learning. Neurosciences and Cognition doctoral school. Lyon, France. September 2017.[pdf](/Papers/ForestTalk2017b.pdf)
+Online transcranial direct current stimulation of the prefrontal cortex induces dopamine release in the ventral striatum in humans
+Annual Scientific Meeting, Doctoral School of Neuroscience and Cognition, Lyon
 
-**Forest Jeremy**. Olfactory bulb plasticity during simple and complex learning – the central role of newborn neurons. CPL Team meeting. Cornell University, Ithaca, USA. April 2017 [pdf](/Papers/ForestTalk2017a.pdf)
+L’exploration des méthodes de modélisation TEP dans le cas de déplacement par un neurotransmetteur endogène (approche lp-ntPET)
+Journal Club CERMEP, Lyon
 
-**Forest Jeremy**. Plasticité neuronale du bulbe olfactif lors d’apprentissage simple et complexe. Presentation in 180s. GDR Olfaction. Lyon, France. October 2016. [pdf](/Papers/ForestTalk2016b.pdf)
+#### 2016
+Effets de la stimulation transcrânienne en courant continu sur la transmission dopaminergique chez le sujet sain
+Partenariat Université Lyon 2 et Conseil scientifique de la recherche CH Le Vinatier, Lyon
 
-**Forest Jeremy**, Richard Marion, Sacquet Joelle, Benetollo Claire, Didier Anne, Mandairon Nathalie. Neuronal plasticity in the olfactory bulb during simple and complex learning. Plasticity Workshop. Lyon, France. March 2016 [pdf](/Papers/ForestTalk2016a.pdf)
+Neurophysiological impact of transcranial direct current stimulation (tDCS) in healthy subjects
+Berenson-Allen Center for NonInvasive Brain Stimulation, Boston
 
-Yin Xuming, **Forest Jeremy**, Midroit Maellie, Sacquet Joelle, Kuczewski Nicola, Richard Marion, Mandairon Nathalie, Didier Anne. Olfactory perceptual learning shapes morphology of adult born granule cells and their imputs from locus coeruleus. Society for Neuroscience 45th annual meeting. Chicago, USA. October 2015.
-
-Mandairon Nathalie, Richard Marion, Moreno Melissa, **Forest Jeremy**, Yin Xuming, Didier Anne. Top down control on adult-born neurons during olfactory learning. Association for Chemoreception Science, Fort Mayers, FL USA. April 2015.
-
-
+#### 2015
+Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy subjects: a multimodal imaging approach
+Conseil scientifique de la Fondation Neurodis, Lyon
 
 ### <a name="posters"></a> Posters
+**Fonteneau Clara**, Merida Inès, Redouté Jérome, Haesebaert Frédéric, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie- Françoise; Neurophysiological impact of a fronto-temporal transcranial direct current stimulation in healthy subjects: a multimodal PET-MR imaging approach; Poster presented at Non Invasive Brain stimulation techniques (NIBS) for psychiatric disorders; Munich, Germany; October 2017
 
-Terrier Claire, Yin Xuming, Midroit Maellie, **Forest Jeremy**, Sacquet Joelle, Thevenet Marc, Mandairon Nathalie, Didier Anne, Richard Marion. Investigating role of noradrenaline in olfactory discrimination during aging. Association for Chemoreception Science, Bonita Springs, FL, USA. April 2018.
+Merida Inés, **Fonteneau Clara**, Reilhac Anthonin, Redouté Jérôme, Irace Zacharie, Suaud-Chagny Marie-Françoise, Hammers Alexander, Costes Nicolas; Motion correction and multi-atlas attenuation correction applied to a simultaneous bolus/infusion PET-MR brain study; Talk given (by I. Merida) at 6th PET-MRI and SPECT-MRI (PSMR) Conference; Lisbon, Portugal, May 2017
 
-**Forest Jeremy**, Richard Marion, Sacquet Joelle, Benetollo Claire, Didier Anne, Mandairon Nathalie. Olfactory bulb plasticity during complex perceptual learning in mice. Society for Neuroscience 45th annual meeting, Chicago, USA. October 2015. [pdf](/Papers/ForestPoster2015.pdf)
+Merida Inés, Hammers Alexander, Redouté Jérôme, McGinnity Colm, **Fonteneau Clara**, Suaud-Chagny Marie-Françoise, Reilhac Anthonin, Costes Nicolas ; Attenuation correction with a multi-atlas method for brain PET-MR imaging: assessment with realistic simulated [11C]raclopride bolus-infusion PET data ; Poster presented at 28th International Symposium on Cerebral Blood Flow, Metabolism and Function & 13th International Conference on Quantification of Brain Function with PET; Berlin, Germany, April 2017
 
-Sunada Hiroshi, **Forest Jeremy**, Sakakibara Manabu, Lukowiak Ken; Traumatic stress impairs learning and memory formation via an endocannabinoid system in Lymnaea stagnalis. 37th Annual Meeting of the Japan Neuroscience Society, Yokohama Japan. September 2014.
+**Fonteneau Clara**, Haesebaert Frédéric, Redouté Jérome, Le Bars Didier, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie- Françoise ; Online transcranial direct current stimulation of the frontal cortex induces dopamine release in the striatum – a spatial and temporal analysis in healthy humans ; Poster presented at 2nd International Brain Stimulation conference, Barcelona, Spain; March 2017
 
-Sunada Hiroshi, **Forest Jeremy**, Sakakibara Manabu, Lukowiak Ken; Traumatic stress impairs learning and memory formation via an endocannabinoid system in Lymnaea stagnalis. 52nd Annual Meeting of the
-Biophysical Society of Japan. Sapporo, Japan. September 2014.
+Reilhac Anthonin, Berrada Rania, Irace Zacharie, Merida Inés, **Fonteneau Clara**, Suaud-Chagny Marie-Françoise, Costes Nicolas ; Développements d’une méthode de correction de mouvement en IRM-TEP cérébrale ; Poster presented at Recherche en Imagerie et Technologie pour la santé (RITS), Lyon, France, Mars 2017
+
+**Fonteneau Clara**, Haesebaert Frédéric, Villien Marjorie, Redouté Jérome, Le Bars Didier, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie-Françoise ; Neurophysiological impact of a fronto-temporal transcranial direct current stimulation in healthy subjects: a multimodal PET-MR imaging approach; Poster presented at 11th International Symposium on Functional NeuroReceptor Mapping of the Living Brain, Boston, USA; July 2016
+
+**Fonteneau Clara**, Haesebaert Frédéric, Redouté Jérome, Le Bars Didier, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie- Françoise ; Acute and subsequent effects of transcranial direct current stimulation on the dopaminergic transmission in healthy humans ; Poster presented at 11th International Symposium on Functional NeuroReceptor Mapping of the Living Brain, Boston, USA; July 2016
+
+**Fonteneau Clara**, Redouté Jérome, Le Bars Didier, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie-Françoise; Impact of transcranial direct current stimulation on the dopaminergic transmission in healthy humans; Poster presented at Non Invasive Brain stimulation techniques (NIBS) for psychiatric disorders Ghent, Belgium; December 2015
+
+Psomiades Marion, **Fonteneau Clara**, Haesebaert Frédéric, Suaud-Chagny Marie-Françoise, Brunelin Jérôme. Does prefrontal non invasive brain stimulation alleviating symptoms in depression and schizophrenia impact emotion processing ?; Poster presented at Non Invasive Brain stimulation techniques (NIBS) for psychiatric disorders Ghent, Belgium; December 2015
 
 
 ### <a name="thesis"></a> Dissertation
-Dissertation: **Forest Jeremy** Impact of adult neurogenesis versus preexisting neurons on olfactory perception in complex or changing olfactory environment [pdf](/Papers/ThesisDissertation.pdf)
+Dissertation: **Fonteneau Clara** Impact of a single frontal transcranial direct current stimulation on the dopaminergic network in healthy subjects [pdf](/Papers/ThesisDissertation.pdf)
 
-Master 2 thesis: **Forest Jeremy** Neuronal plasticity in the olfactory bulb during simple and complex learning [pdf](/Papers/MemoireM2.pdf)
+Master 2 thesis: **Fonteneau Clara** Mechanisms of attentional preparation in the auditory cortex [pdf](/Papers/MemoireM2.pdf)
 
-Master 1 thesis: **Forest Jeremy** An epigenetic approach of long-termmemory in the pond snail Lymnaea
-stagnalis [pdf](/Papers/MemoireM1.pdf)
+Master 1 thesis: **Fonteneau Clara** Neurophysiological mechanisms of auditory attention in humans [pdf](/Papers/MemoireM1.pdf)
