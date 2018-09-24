@@ -164,6 +164,7 @@ exclude:
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
   - .DS_Store
+  - /Papers/ifneeded
 keep_files:
   - .git
   - .svn

@@ -20,11 +20,8 @@ header:
 	</div>
 </div>
 
-# <a name="articles"></a> Articles
-
-
-## Coming soon
-
+### <a name="articles"></a> Articles
+#### Coming soon
 #### 2018
 **Fonteneau Clara**, Redouté Jérome, Haesebaert Frédéric, Le Bars Didier, Costes Nicolas, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2018) Frontal transcranial direct current stimulation induces dopamine release in the ventral striatum in human, Cerebral Cortex, Volume 28, Issue 7, 1 July 2018, Pages 2636–2646, [doi](https://doi.org/10.1093/cercor/bhy093) [pdf](/Papers/Fonteneau_2018.pdf)
 
@@ -37,7 +34,6 @@ Psomiades Marion, **Fonteneau Clara**, Mondino Marine, Luck David, Haesebaert Fr
 Bidet-Caulet A, Bottemanne L, **Fonteneau C**, Giard M-H, Bertrand O (2014) Brain Dynamics of Distractibility: Interaction Between Top-Down and Bottom-Up Mechanisms of Auditory Attention. Brain Topography [doi](http://dx.doi.org/10.1007/s10548-014-0354-x) [pdf](/Papers/Bidet-Caulet_2013.pdf)
 
 ### <a name="reviews"></a> Reviews, Chapters & Commentaries
-
 #### 2016
 Psomiades Marion, **Fonteneau Clara**, Suaud-Chagny Marie-Françoise, Haesebaert Frédéric, Brunelin Jérôme (2015) Neurostimulation du cortex préfrontal dorsolatéral : quels effets sur la symptomatologie et les émotions dans la dépression et la schizophrénie ? ; Santé mentale au Québec; co-author [doi](http://dx.doi.org/10.7202/1036972ar) [pdf](/Papers/Psomiades_Rev_2016.pdf)
 
@@ -45,7 +41,6 @@ Psomiades Marion, **Fonteneau Clara**, Suaud-Chagny Marie-Françoise, Haesebaer
 Mondino Marine, **Fonteneau Clara**, Brunelin Jérome (2015) Schizophrenia. Book Chapter in Transcranial Direct Current Stimulation in Neuropsychiatric Disorders: Clinical Principles and Management by Brunoni AR, Nitsche MA, Loo CK. Springer NY, USA [doi](https://doi.org/10.1007/978-3-319-33967-2) [pdf](/Papers/Mondino_Chap_2015.pdf)
 
 ### <a name="talks"></a> Talks
-
 #### 2017
 Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy subjects: a PET-MR multimodal imaging approach
 NeuroImaging Journal Club, CRNL, Lyon Journée Scientifique LILI – IRM-TEP, Lyon
@@ -68,23 +63,23 @@ Neurophysiological impact of a fronto-temporal transcranial direct current stimu
 Conseil scientifique de la Fondation Neurodis, Lyon
 
 ### <a name="posters"></a> Posters
-**Fonteneau Clara**, Merida Inès, Redouté Jérome, Haesebaert Frédéric, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie- Françoise; Neurophysiological impact of a fronto-temporal transcranial direct current stimulation in healthy subjects: a multimodal PET-MR imaging approach; Poster presented at Non Invasive Brain stimulation techniques (NIBS) for psychiatric disorders; Munich, Germany; October 2017 [abstract](/Papers/2017_Abstract_COMBISTIM_ECBSP.pdf)[poster](/Papers/2017_Poster_COMBISTIM_ECBSP.pdf)
+**Fonteneau Clara**, Merida Inès, Redouté Jérome, Haesebaert Frédéric, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie- Françoise; Neurophysiological impact of a fronto-temporal transcranial direct current stimulation in healthy subjects: a multimodal PET-MR imaging approach; Poster presented at Non Invasive Brain stimulation techniques (NIBS) for psychiatric disorders; Munich, Germany; October 2017 [Abstract](/Papers/2017_Abstract_COMBISTIM_ECBSP.pdf) [Poster](/Papers/2017_Poster_COMBISTIM_ECBSP.pdf)
 
-Merida Inés, **Fonteneau Clara**, Reilhac Anthonin, Redouté Jérôme, Irace Zacharie, Suaud-Chagny Marie-Françoise, Hammers Alexander, Costes Nicolas; Motion correction and multi-atlas attenuation correction applied to a simultaneous bolus/infusion PET-MR brain study; Talk given (by I. Merida) at 6th PET-MRI and SPECT-MRI (PSMR) Conference; Lisbon, Portugal, May 2017 [abstract](/Papers/2017_Abstract_PSMR.pdf)
+Merida Inés, **Fonteneau Clara**, Reilhac Anthonin, Redouté Jérôme, Irace Zacharie, Suaud-Chagny Marie-Françoise, Hammers Alexander, Costes Nicolas; Motion correction and multi-atlas attenuation correction applied to a simultaneous bolus/infusion PET-MR brain study; Talk given (by I. Merida) at 6th PET-MRI and SPECT-MRI (PSMR) Conference; Lisbon, Portugal, May 2017 [Abstract](/Papers/2017_Abstract_PSMR.pdf)
 
-Merida Inés, Hammers Alexander, Redouté Jérôme, McGinnity Colm, **Fonteneau Clara**, Suaud-Chagny Marie-Françoise, Reilhac Anthonin, Costes Nicolas ; Attenuation correction with a multi-atlas method for brain PET-MR imaging: assessment with realistic simulated [11C]raclopride bolus-infusion PET data ; Poster presented at 28th International Symposium on Cerebral Blood Flow, Metabolism and Function & 13th International Conference on Quantification of Brain Function with PET; Berlin, Germany, April 2017 [abstract](/Papers/2017_Abstract_BrainPET.pdf)
+Merida Inés, Hammers Alexander, Redouté Jérôme, McGinnity Colm, **Fonteneau Clara**, Suaud-Chagny Marie-Françoise, Reilhac Anthonin, Costes Nicolas ; Attenuation correction with a multi-atlas method for brain PET-MR imaging: assessment with realistic simulated [11C]raclopride bolus-infusion PET data ; Poster presented at 28th International Symposium on Cerebral Blood Flow, Metabolism and Function & 13th International Conference on Quantification of Brain Function with PET; Berlin, Germany, April 2017 [Abstract](/Papers/2017_Abstract_BrainPET.pdf)
 
-**Fonteneau Clara**, Haesebaert Frédéric, Redouté Jérome, Le Bars Didier, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie- Françoise ; Online transcranial direct current stimulation of the frontal cortex induces dopamine release in the striatum – a spatial and temporal analysis in healthy humans ; Poster presented at 2nd International Brain Stimulation conference, Barcelona, Spain; March 2017 [abstract](/Papers/2017_Abstract_DOPASTIM_BrainStim.pdf)[poster](/Papers/2017_Poster_DOPASTIM_BrainStim.pdf)
+**Fonteneau Clara**, Haesebaert Frédéric, Redouté Jérome, Le Bars Didier, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie- Françoise ; Online transcranial direct current stimulation of the frontal cortex induces dopamine release in the striatum – a spatial and temporal analysis in healthy humans ; Poster presented at 2nd International Brain Stimulation conference, Barcelona, Spain; March 2017 [Abstract](/Papers/2017_Abstract_DOPASTIM_BrainStim.pdf)[Poster](/Papers/2017_Poster_DOPASTIM_BrainStim.pdf)
 
-Reilhac Anthonin, Berrada Rania, Irace Zacharie, Merida Inés, **Fonteneau Clara**, Suaud-Chagny Marie-Françoise, Costes Nicolas ; Développements d’une méthode de correction de mouvement en IRM-TEP cérébrale ; Poster presented at Recherche en Imagerie et Technologie pour la santé (RITS), Lyon, France, Mars 2017 [abstract](/Papers/2017_Abstract_RITS.pdf)
+Reilhac Anthonin, Berrada Rania, Irace Zacharie, Merida Inés, **Fonteneau Clara**, Suaud-Chagny Marie-Françoise, Costes Nicolas ; Développements d’une méthode de correction de mouvement en IRM-TEP cérébrale ; Poster presented at Recherche en Imagerie et Technologie pour la santé (RITS), Lyon, France, Mars 2017 [Abstract](/Papers/2017_Abstract_RITS.pdf)
 
-**Fonteneau Clara**, Haesebaert Frédéric, Villien Marjorie, Redouté Jérome, Le Bars Didier, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie-Françoise ; Neurophysiological impact of a fronto-temporal transcranial direct current stimulation in healthy subjects: a multimodal PET-MR imaging approach; Poster presented at 11th International Symposium on Functional NeuroReceptor Mapping of the Living Brain, Boston, USA; July 2016 [abstract](/Papers/2016_Abstract_COMBISTIM_NRM.pdf)[poster](/Papers/2016_Poster_COMBISTIM_NRM.pdf)
+**Fonteneau Clara**, Haesebaert Frédéric, Villien Marjorie, Redouté Jérome, Le Bars Didier, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie-Françoise ; Neurophysiological impact of a fronto-temporal transcranial direct current stimulation in healthy subjects: a multimodal PET-MR imaging approach; Poster presented at 11th International Symposium on Functional NeuroReceptor Mapping of the Living Brain, Boston, USA; July 2016 [Abstract](/Papers/2016_Abstract_COMBISTIM_NRM.pdf) [Poster](/Papers/2016_Poster_COMBISTIM_NRM.pdf)
 
-**Fonteneau Clara**, Haesebaert Frédéric, Redouté Jérome, Le Bars Didier, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie- Françoise ; Acute and subsequent effects of transcranial direct current stimulation on the dopaminergic transmission in healthy humans ; Poster presented at 11th International Symposium on Functional NeuroReceptor Mapping of the Living Brain, Boston, USA; July 2016 [abstract](/Papers/2016_Abstract_DOPASTIM_NRM.pdf)[poster](/Papers/2016_Poster_DOPASTIM_NRM.pdf)
+**Fonteneau Clara**, Haesebaert Frédéric, Redouté Jérome, Le Bars Didier, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie- Françoise ; Acute and subsequent effects of transcranial direct current stimulation on the dopaminergic transmission in healthy humans ; Poster presented at 11th International Symposium on Functional NeuroReceptor Mapping of the Living Brain, Boston, USA; July 2016 [Abstract](/Papers/2016_Abstract_DOPASTIM_NRM.pdf) [Poster](/Papers/2016_Poster_DOPASTIM_NRM.pdf)
 
-**Fonteneau Clara**, Redouté Jérome, Le Bars Didier, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie-Françoise; Impact of transcranial direct current stimulation on the dopaminergic transmission in healthy humans; Poster presented at Non Invasive Brain stimulation techniques (NIBS) for psychiatric disorders Ghent, Belgium; December 2015 [abstract](/Papers/2015_Abstract_DOPASTIM_Ghent.pdf)[poster](/Papers/2015_Poster_DOPASTIM_Ghent.pdf)
+**Fonteneau Clara**, Redouté Jérome, Le Bars Didier, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie-Françoise; Impact of transcranial direct current stimulation on the dopaminergic transmission in healthy humans; Poster presented at Non Invasive Brain stimulation techniques (NIBS) for psychiatric disorders Ghent, Belgium; December 2015 [Abstract](/Papers/2015_Abstract_DOPASTIM_Ghent.pdf) [Poster](/Papers/2015_Poster_DOPASTIM_Ghent.pdf)
 
-Psomiades Marion, **Fonteneau Clara**, Haesebaert Frédéric, Suaud-Chagny Marie-Françoise, Brunelin Jérôme. Does prefrontal non invasive brain stimulation alleviating symptoms in depression and schizophrenia impact emotion processing ?; Poster presented at Non Invasive Brain stimulation techniques (NIBS) for psychiatric disorders Ghent, Belgium; December 2015 [abstract](/Papers/2015_Abstract_Emotion_Ghent.pdf)[poster](/Papers/2015_Poster_Emotion_Ghent.pdf)
+Psomiades Marion, **Fonteneau Clara**, Haesebaert Frédéric, Suaud-Chagny Marie-Françoise, Brunelin Jérôme. Does prefrontal non invasive brain stimulation alleviating symptoms in depression and schizophrenia impact emotion processing ?; Poster presented at Non Invasive Brain stimulation techniques (NIBS) for psychiatric disorders Ghent, Belgium; December 2015 [Abstract](/Papers/2015_Abstract_Emotion_Ghent.pdf) [Poster](/Papers/2015_Poster_Emotion_Ghent.pdf)
 
 
 ### <a name="thesis"></a> Dissertation
