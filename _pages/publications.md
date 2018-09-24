@@ -1,7 +1,6 @@
 ---
 permalink: /papers/
 author_profile: true
-title: "Publications"
 layout: publication
 header:
   image: /assets/images/DSCF8780.JPG
