@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Home"
+    url: https://jeremyforest.github.io/
+  - title: 'Posts'
+    url: /posts/
+  - title: "CV"
+    url: /CV/Forest_CV_28.08.18.pdf
+  - title: "Papers"
+    url: /papers/
