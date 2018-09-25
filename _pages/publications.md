@@ -44,25 +44,29 @@ Psomiades Marion, **Fonteneau Clara**, Suaud-Chagny Marie-Françoise, Haesebaer
 Mondino Marine, **Fonteneau Clara**, Brunelin Jérome (2015) Schizophrenia. Book Chapter in Transcranial Direct Current Stimulation in Neuropsychiatric Disorders: Clinical Principles and Management by Brunoni AR, Nitsche MA, Loo CK. Springer NY, USA [doi](https://doi.org/10.1007/978-3-319-33967-2) [pdf](/Papers/Mondino_Chap_2015.pdf)
 
 ## ***<a name="talks"></a> Talks***
+### 2018
+Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy humans: a simultaneous PET-MR approach   
+Talk in the symposium: Transcranial direct current stimulation for auditory hallucinations: evidence from clinical and neurophysiological studies, given at 3rd European Conference on Brain Stimulation in Psychiatry; Lyon, France, October 2018
+
 ### 2017
-Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy subjects: a PET-MR multimodal imaging approach
+Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy subjects: a PET-MR multimodal imaging approach   
 NeuroImaging Journal Club, CRNL, Lyon Journée Scientifique LILI – IRM-TEP, Lyon
 
-Online transcranial direct current stimulation of the prefrontal cortex induces dopamine release in the ventral striatum in humans
+Online transcranial direct current stimulation of the prefrontal cortex induces dopamine release in the ventral striatum in humans   
 Annual Scientific Meeting, Doctoral School of Neuroscience and Cognition, Lyon
 
-L’exploration des méthodes de modélisation TEP dans le cas de déplacement par un neurotransmetteur endogène (approche lp-ntPET)
+Exploration of PET modeling methods in the case of displacement by an endogenous neurotransmitter (lp-ntPET approach) [L’exploration des méthodes de modélisation TEP dans le cas de déplacement par un neurotransmetteur endogène (approche lp-ntPET)]   
 Journal Club CERMEP, Lyon
 
 ### 2016
-Effets de la stimulation transcrânienne en courant continu sur la transmission dopaminergique chez le sujet sain
+Effets de la stimulation transcrânienne en courant continu sur la transmission dopaminergique chez le sujet sain   
 Partenariat Université Lyon 2 et Conseil scientifique de la recherche CH Le Vinatier, Lyon
 
-Neurophysiological impact of transcranial direct current stimulation (tDCS) in healthy subjects
+Neurophysiological impact of transcranial direct current stimulation (tDCS) in healthy subjects   
 Berenson-Allen Center for NonInvasive Brain Stimulation, Boston
 
 ### 2015
-Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy subjects: a multimodal imaging approach
+Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy subjects: a multimodal imaging approach   
 Conseil scientifique de la Fondation Neurodis, Lyon
 
 ## ***<a name="posters"></a> Posters***
