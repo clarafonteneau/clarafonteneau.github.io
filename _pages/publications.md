@@ -45,29 +45,29 @@ Mondino Marine, **Fonteneau Clara**, Brunelin Jérome (2015) Schizophrenia. Boo
 
 ## ***<a name="talks"></a> Talks***
 ### 2018
-Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy humans: a simultaneous PET-MR approach   
-Talk in the symposium: Transcranial direct current stimulation for auditory hallucinations: evidence from clinical and neurophysiological studies, given at 3rd European Conference on Brain Stimulation in Psychiatry; Lyon, France, October 2018
+Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy humans: a simultaneous PET-MR approach; Talk in the symposium: Transcranial direct current stimulation for auditory hallucinations: evidence from clinical and neurophysiological studies   
+*3rd European Conference on Brain Stimulation in Psychiatry; Lyon, France, October 2018*
 
 ### 2017
 Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy subjects: a PET-MR multimodal imaging approach   
-NeuroImaging Journal Club, CRNL, Lyon Journée Scientifique LILI – IRM-TEP, Lyon
+*NeuroImaging Journal Club, CRNL, Lyon Journée Scientifique LILI – IRM-TEP, Lyon*
 
 Online transcranial direct current stimulation of the prefrontal cortex induces dopamine release in the ventral striatum in humans   
-Annual Scientific Meeting, Doctoral School of Neuroscience and Cognition, Lyon
+*Annual Scientific Meeting, Doctoral School of Neuroscience and Cognition, Lyon*
 
 Exploration of PET modeling methods in the case of displacement by an endogenous neurotransmitter (lp-ntPET approach) [L’exploration des méthodes de modélisation TEP dans le cas de déplacement par un neurotransmetteur endogène (approche lp-ntPET)]   
-Journal Club CERMEP, Lyon
+*Journal Club CERMEP, Lyon*
 
 ### 2016
 Effets de la stimulation transcrânienne en courant continu sur la transmission dopaminergique chez le sujet sain   
-Partenariat Université Lyon 2 et Conseil scientifique de la recherche CH Le Vinatier, Lyon
+*Partenariat Université Lyon 2 et Conseil scientifique de la recherche CH Le Vinatier, Lyon*
 
 Neurophysiological impact of transcranial direct current stimulation (tDCS) in healthy subjects   
-Berenson-Allen Center for NonInvasive Brain Stimulation, Boston
+*Berenson-Allen Center for NonInvasive Brain Stimulation, Boston*
 
 ### 2015
 Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy subjects: a multimodal imaging approach   
-Conseil scientifique de la Fondation Neurodis, Lyon
+*Conseil scientifique de la Fondation Neurodis, Lyon*
 
 ## ***<a name="posters"></a> Posters***
 Intartaglia Bastien, ElShafei Hesham, **Fonteneau Clara**, Catenoix Hélène, Bonnefond Mathilde, Bertrand Olivier, Bidet-Caulet Aurélie; Brain oscillatory dynamics in the bottom-up/top-down balance of auditory attention: intracranial recordings; Poster presented at 2nd Salzburg Mind – Brain Annual Meeting, SAMBA 2018. [Abstract](/Papers/2018_Abstract_AttAud_sEEG_SAMBA.pdf)
