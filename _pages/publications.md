@@ -66,6 +66,8 @@ Neurophysiological impact of a fronto-temporal transcranial direct current stimu
 Conseil scientifique de la Fondation Neurodis, Lyon
 
 ## ***<a name="posters"></a> Posters***
+Intartaglia Bastien, ElShafei Hesham, **Fonteneau Clara**, Catenoix Hélène, Bonnefond Mathilde, Bertrand Olivier, Bidet-Caulet Aurélie; Brain oscillatory dynamics in the bottom-up/top-down balance of auditory attention: intracranial recordings; Poster presented at 2nd Salzburg Mind – Brain Annual Meeting, SAMBA 2018. [Abstract](/Papers/2018_Abstract_AttAud_sEEG_SAMBA.pdf)
+
 **Fonteneau Clara**, Merida Inès, Redouté Jérome, Haesebaert Frédéric, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie- Françoise; Neurophysiological impact of a fronto-temporal transcranial direct current stimulation in healthy subjects: a multimodal PET-MR imaging approach; Poster presented at Non Invasive Brain stimulation techniques (NIBS) for psychiatric disorders; Munich, Germany; October 2017 [Abstract](/Papers/2017_Abstract_COMBISTIM_ECBSP.pdf) [Poster](/Papers/2017_Poster_COMBISTIM_ECBSP.pdf)
 
 Merida Inés, **Fonteneau Clara**, Reilhac Anthonin, Redouté Jérôme, Irace Zacharie, Suaud-Chagny Marie-Françoise, Hammers Alexander, Costes Nicolas; Motion correction and multi-atlas attenuation correction applied to a simultaneous bolus/infusion PET-MR brain study; Talk given (by I. Merida) at 6th PET-MRI and SPECT-MRI (PSMR) Conference; Lisbon, Portugal, May 2017 [Abstract](/Papers/2017_Abstract_PSMR.pdf)
