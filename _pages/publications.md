@@ -2,6 +2,8 @@
 permalink: /papers/
 author_profile: true
 layout: publication
+header:
+  image: /assets/images/DSCF8780.JPG
 ---
 
 <div class="navbar">
