@@ -1,0 +1,7 @@
+---
+title: test 2nd post
+date: 2018-09-26
+excerpt: test2
+permalink: /posts/
+---
+test2
