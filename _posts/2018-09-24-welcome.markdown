@@ -4,6 +4,5 @@ date: 2018-09-24
 excerpt: Hi, I'm in the process of building this website. Things will come online bits by bits. My main information (CV and research papers) is already online!
 permalink: /posts/
 header:
-  image: /assets/images/DSCF8449.JPG
+  image: /assets/images/DSC_5364.JPG
 ---
-I'm in the process of building this website. Things will come online bits by bits. My main information (CV and research papers) is already online! Thanks for visiting
