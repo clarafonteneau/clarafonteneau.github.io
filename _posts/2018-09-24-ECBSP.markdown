@@ -7,4 +7,4 @@ header:
   image: /assets/images/DSC5364.jpg
 ---
 So excited to discuss the latest results of my PET-MR study in the upcoming 3rd European Conference on Brain Stimulation in Psychiatry (ECBSP) in Lyon, part of the symposium: Transcranial direct current stimulation for auditory hallucinations: evidence from clinical and neurophysiological studies. If you are interested in brain stimulation, auditory hallucinations and dopamine, come join us on October 20th!
-https://www.brain-stimulation.eu/program/
+Check out the [program online](https://www.brain-stimulation.eu/program/)!
