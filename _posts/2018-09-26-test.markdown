@@ -3,7 +3,5 @@ title: test 2nd post
 date: 2018-09-26
 excerpt: test2
 permalink: /posts/
-header:
-  image: /assets/images/DSC5364.jpg
 ---
 test2
