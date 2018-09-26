@@ -2,6 +2,6 @@
 title: Welcome
 date: 2018-09-24
 excerpt: Hi, I'm in the process of building this website. Things will come online bits by bits. My main information (CV and research papers) is already online!
-permalink: /posts/
+permalink: /posts/post1
 ---
 Hi, I'm in the process of building this website. Things will come online bits by bits. My main information (CV and research papers) is already online!
