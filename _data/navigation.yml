@@ -2,9 +2,9 @@
 main:
   - title: "Home"
     url: https://clarafonteneau.github.io/
-  - title: 'Posts'
-    url: /posts/
   - title: "CV"
     url: /CV/FONTENEAU_CV_20180924.pdf
   - title: "Papers"
     url: /papers/
+  - title: 'Posts'
+    url: /posts/
