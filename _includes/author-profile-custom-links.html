@@ -5,3 +5,19 @@
     </a>
   </li>
 -->
+
+{% if author.orcid %}
+  <li>
+    <a href="https://orcid.org/{{ author.orcid }}" itemprop="sameAs">
+      <i class="ai ai-orcid-square ai-fw" aria-hidden="true"></i> Orcid
+    </a>
+  </li>
+{% endif %}
+
+{% if author.scholar %}
+  <li>
+    <a href="https://scholar.google.com/citations?user={{ author.scholar }}" itemprop="sameAs">
+      <i class="fa fa-graduation-cap" aria-hidden="true"></i> Google Scholar
+    </a>
+  </li>
+{% endif %}
