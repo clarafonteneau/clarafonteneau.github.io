@@ -25,7 +25,7 @@ header:
 **Fonteneau Clara**, Merida Ines, Redouté Jérome, Haesebaert Frédéric, Le Bars Didier, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie-Françoise; Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy humans: a simultaneous PET-MR approach; *in preparation*
 
 #### 2018
-**Fonteneau Clara**, Redouté Jérome, Haesebaert Frédéric, Le Bars Didier, Costes Nicolas, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2018) Frontal transcranial direct current stimulation induces dopamine release in the ventral striatum in human, Cerebral Cortex [doi](https://doi.org/10.1093/cercor/bhy093) [pdf](/Papers/Fonteneau_2018.pdf)
+**Fonteneau Clara**, Redouté Jérome, Haesebaert Frédéric, Le Bars Didier, Costes Nicolas, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2018) Frontal transcranial direct current stimulation induces dopamine release in the ventral striatum in human, Cerebral Cortex [![doi](icons/doi-icon.png)](https://doi.org/10.1093/cercor/bhy093) [![pdf](icons/pdf-icon.png)](/Papers/Fonteneau_2018.pdf)
 
 Psomiades Marion, Mondino Marine, **Fonteneau Clara**, Bation Rémy, Haesebaert Fréderic, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2018) N-Acetyl-Aspartate in the dorsolateral prefrontal cortex in men with schizophrenia and auditory verbal hallucinations: A 1.5T Magnetic Resonance Spectroscopy Study; Scientific Report [doi](http://dx.doi.org/10.1038/s41598-018-22597-y) [pdf](/Papers/Psomiades_2018.pdf)
 
