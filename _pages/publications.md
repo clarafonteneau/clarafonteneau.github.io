@@ -27,6 +27,7 @@ header:
 
 #### 2018
 **Fonteneau Clara**, Redouté Jérome, Haesebaert Frédéric, Le Bars Didier, Costes Nicolas, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2018) Frontal transcranial direct current stimulation induces dopamine release in the ventral striatum in human, Cerebral Cortex [![doi](icons/doi-icon.png)](https://doi.org/10.1093/cercor/bhy093) [![pdf](icons/pdf-icon.png)](/Papers/Fonteneau_2018.pdf)
+<span class="__dimensions_badge_embed__" data-doi="10.1093/cercor/bhy093"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 Psomiades Marion, Mondino Marine, **Fonteneau Clara**, Bation Rémy, Haesebaert Fréderic, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2018) N-Acetyl-Aspartate in the dorsolateral prefrontal cortex in men with schizophrenia and auditory verbal hallucinations: A 1.5T Magnetic Resonance Spectroscopy Study; Scientific Report [![doi](icons/doi-icon.png)](http://dx.doi.org/10.1038/s41598-018-22597-y) [![pdf](icons/pdf-icon.png)](/Papers/Psomiades_2018.pdf)
 
