@@ -106,7 +106,7 @@ author:
   location         : "New Haven, CT, USA"
   email            : "fonteneau.clara@gmail.com"
   uri              : "https://clarafonteneau.github.io/"
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : # null (default), "absolute or relative url to link to author home" #
   bitbucket        : "clarafonteneau"
   codepen          :
   dribbble         :
