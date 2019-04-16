@@ -102,12 +102,12 @@ analytics:
 author:
   name             : "Clara Fonteneau"
   avatar           : /assets/images/Img_CV_CF.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Neuroscientist interested in brain stimulation and neuroimaging | open access and reproducibility"
-  location         : "Lyon, France"
+  bio              : "Neuroscientist interested in individual variability and translational approches | open access and reproducibility"
+  location         : "New Haven, CT, USA"
   email            : "fonteneau.clara@gmail.com"
   uri              : "https://clarafonteneau.github.io/"
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        : #fonteneau.clara@gmail.com
+  bitbucket        : "clarafonteneau"
   codepen          :
   dribbble         :
   flickr           :
