@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Clara Fonteneau"
   avatar           : /assets/images/Img_CV_CF.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Neuroscientist interested in individual variability and translational approches | open access and reproducibility"
+  bio              : "Neuroscientist interested in individual variability and translational approaches | open access and reproducibility"
   location         : "New Haven, CT, USA"
   email            : "fonteneau.clara@gmail.com"
   uri              : "https://clarafonteneau.github.io/"
