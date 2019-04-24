@@ -1,6 +1,6 @@
 ---
-title: Postdoctoral associate appointment Anticevic Lab
-date: 2019-04-12
+title: Postdoctoral associate - Anticevic Lab
+date: 2019-02-15
 excerpt: So thrilled to start my new position as a postdoctoral associate in the Anticevic Lab! Looking forward bridging the gap between computational models and multimodal imaging in healthy and neuropsychiatric patients.
 header:
   image: /assets/images/DSC5364.jpg
