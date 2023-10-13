@@ -9,11 +9,11 @@ header:
 <div class="navbar">
 	<div class="navbar-inner">
 		<ul class="nav">
-			<li><a href="#attention">Attentional Preparation and Distractibility</a></li>
-			<li><a href="#stim">Mechanisms underlying transcranial stimulation in psychiatry</a></li>
-			<li><a href="#methods">Developing novel tools to advance multimodal imaging</a></li>
-			<li><a href="#neurobeh">Leveraging multimodal neuro-behavioral approaches to investigate psychiatric disorders</a></li>
-			<li><a href="#pharmaco">Interventional pharmacological approaches in psychiatric disorders</a></li>
+			<li><a href="#attention">Cognition</a></li>
+			<li><a href="#stim">Brain Stim</a></li>
+			<li><a href="#methods">Methods</a></li>
+			<li><a href="#neurobeh">Neuro-Behavior</a></li>
+			<li><a href="#pharmaco">Pharmacology</a></li>
 		</ul>
 	</div>
 </div>
@@ -37,7 +37,9 @@ Master 1 thesis: **Fonteneau Clara** Neurophysiological mechanisms of auditory a
 **Fonteneau Clara**, Merida Ines, Redouté Jérome, Haesebaert Frédéric, Le Bars Didier, Costes Nicolas, Brunelin Jérome, Suaud-Chagny Marie-Françoise; Neurophysiological impact of a fronto-temporal transcranial direct current stimulation (tDCS) in healthy humans: a simultaneous PET-MR approach; *in preparation*
 
 #### Articles
-Mondino Marine, **Fonteneau Clara**, Simon Louis, Dondé Clément, Haesebaert Frédéric, Poulet Emmanuel, Brunelin Jerome (2021) Advancing clinical response characterization to frontotemporal transcranial direct current stimulation with electric field distribution in patients with schizophrenia and auditory hallucinations: A pilot study; Eur Arch Psychiatry Clin Neurosci.  [![doi](icons/doi-icon.png)](https://doi.org/10.1007/s00406-020-01149-4) <span class="__dimensions_badge_embed__" data-doi="10.1007/s00406-020-01149-4" data-hide-zero-citations="true" data-style="small_circle"></span>
+Mondino Marine, **Fonteneau Clara**, Simon Louis, Dondé Clément, Haesebaert Frédéric, Poulet Emmanuel, Brunelin Jerome (2021) Advancing clinical response characterization to frontotemporal transcranial direct current stimulation with electric field distribution in patients with schizophrenia and auditory hallucinations: A pilot study; Eur Arch Psychiatry Clin Neurosci. [![doi](icons/doi-icon.png)](https://doi.org/10.1007/s00406-020-01149-4) <span class="__dimensions_badge_embed__" data-doi="10.1007/s00406-020-01149-4" data-hide-zero-citations="true" data-style="small_circle"></span>
+
+L. Simon, C. Fonteneau, E. Poulet, M. Mondino, J. Brunelin (2019); Fronto-temporal transcranial direct current stimulation (tDCS) for auditory verbal hallucination in schizophrenia; French Journal of Psychiatry. [![doi](icons/doi-icon.png)](https://doi.org/10.1016/j.fjpsy.2019.10.351) <span class="__dimensions_badge_embed__" data-doi="10.1016/j.fjpsy.2019.10.351" data-hide-zero-citations="true" data-style="small_circle"></span>
 
 **Fonteneau Clara**, Mondino Marine, Arns Martijn, Baeken Chris, Bikson Marom, Brunoni Andre R, Burke Matthew J, Neuvonen Tuomas, Padberg Frank, Pascual-Leone Alvaro, Poulet Emmanuel, Ruffini Giulio, Santarnecchi Emiliano, Sauvaget Anne, Schellhorn Klaus, Suaud-Chagny Marie-Francoise, Palm Ulrich, Brunelin Jérome (2019) Sham tDCS: a hidden source of variability? Reflections for further blinded, controlled trials; Brain Stimulation [![doi](icons/doi-icon.png)](https://doi.org/10.1016/j.brs.2018.12.977) [![pdf](icons/pdf-icon.png)](/Papers/Fonteneau_Comm_2019.pdf) <span class="__dimensions_badge_embed__" data-doi="10.1016/j.brs.2018.12.977" data-hide-zero-citations="true" data-style="small_circle"></span>
 
@@ -85,9 +87,12 @@ Psomiades Marion, **Fonteneau Clara**, Haesebaert Frédéric, Suaud-Chagny Mar
 
 ## ***<a name="methods"></a> Developing novel tools to advance multimodal imaging***
 #### Articles
-Jie Lisa Ji, Jure Demšar, **Clara Fonteneau**, Zailyn Tamayo, Lining Pan, Aleksij Kraljič, Andraž Matkovič, Nina Purg, Markus Helmer, Shaun Warrington, Anderson Winkler, Valerio Zerbi, Timothy S. Coalson, Matthew F. Glasser, Michael P. Harms, Stamatios N. Sotiropoulos, John D. Murray, Alan Anticevic, Grega Repovš; QuNex – An Integrative Platform for Reproducible Neuroimaging Analytics; bioRxiv 2022.06.03.494750 [![doi](icons/doi-icon.png)](https://doi.org/10.1101/2022.06.03.494750) <span class="__dimensions_badge_embed__" data-doi="10.1101/2022.06.03.494750" data-hide-zero-citations="true" data-style="small_circle"></span>
+Amber M Howell, Shaun Warrington, **Clara Fonteneau**, Youngsun T. Cho, Stamatios Sotiropoulos, John D Murray, Alan Anticevic; The spatial extent of anatomical connections within the thalamus varies across the cortical hierarchy in humans and macaques;
+bioRxiv 2023.07.22.550168 [![doi](icons/doi-icon.png)](https://doi.org/10.1101/2023.07.22.550168) <span class="__dimensions_badge_embed__" data-doi="10.1101/2023.07.22.550168" data-hide-zero-citations="true" data-style="small_circle"></span>
 
-Ji JL, Helmer M, **Fonteneau C**, Burt JB, Tamayo Z, Demšar J, Adkinson BD, Savić A, Preller KH, Moujaes F, Vollenweider FX, Martin WJ, Repovš G, Cho YT, Pittenger C, Murray JD, Anticevic A. (2021) Mapping brain-behavior space relationships along the psychosis spectrum. Elife [![doi](icons/doi-icon.png)](https://doi.org/10.7554/eLife.66968) <span class="__dimensions_badge_embed__" data-doi="doi.org/10.7554/eLife.66968" data-hide-zero-citations="true" data-style="small_circle"></span>
+Jie Lisa Ji, Jure Demšar, **Clara Fonteneau**, Zailyn Tamayo, Lining Pan, Aleksij Kraljič, Andraž Matkovič, Nina Purg, Markus Helmer, Shaun Warrington, Anderson Winkler, Valerio Zerbi, Timothy S. Coalson, Matthew F. Glasser, Michael P. Harms, Stamatios N. Sotiropoulos, John D. Murray, Alan Anticevic, Grega Repovš; QuNex – An Integrative Platform for Reproducible Neuroimaging Analytics [![doi](icons/doi-icon.png)](https://doi.org/10.1101/2022.06.03.494750) <span class="__dimensions_badge_embed__" data-doi="10.1101/2022.06.03.494750" data-hide-zero-citations="true" data-style="small_circle"></span>
+
+Ji JL, Helmer M, **Fonteneau C**, Burt JB, Tamayo Z, Demšar J, Adkinson BD, Savić A, Preller KH, Moujaes F, Vollenweider FX, Martin WJ, Repovš G, Cho YT, Pittenger C, Murray JD, Anticevic A. (2021) Mapping brain-behavior space relationships along the psychosis spectrum. Elife [![doi](icons/doi-icon.png)](https://doi.org/10.7554/eLife.66968) <span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.66968" data-hide-zero-citations="true" data-style="small_circle"></span>
 
 Irace Zacharie, Merida Ines, Redoute Jerome, **Fonteneau Clara**, Suaud-Chagny Marie-Françoise, Brunelin Jérome, Vidal Benjamin, Zimmer Luc, Reilhac Anthonin, Costes Nicolas (2020) Bayesian Estimation of the ntPET Model in Single-Scan Competition PET Studies; Frontiers in Physiology [![doi](icons/doi-icon.png)](https://doi.org/10.3389/fphys.2020.00498) <span class="__dimensions_badge_embed__" data-doi="10.3389/fphys.2020.00498" data-hide-zero-citations="true" data-style="small_circle"></span>
 
@@ -104,22 +109,27 @@ Reilhac Anthonin, Berrada Rania, Irace Zacharie, Merida Inés, **Fonteneau Clar
 
 ## ***<a name="neurobeh"></a> Leveraging multimodal neuro-behavioral approaches to investigate psychiatric disorders***
 #### Coming soon
-**Fonteneau C+**, Lee K+, Price A, Berkovitch L, Ji JL, Tamayo Z, Afriyle-Agyemang Y, Howell A, Repovs G, Murray JD, Cho Y, Anticevic A. Neuro-behavioral enrichment analysis in psychosis spectrum youth. In progress. (+co-first authors)
+**Fonteneau C+**, Lee K+, Price A, Berkovitch L, Ji JL, Tamayo Z, Afriyle-Agyemang Y, Howell A, Repovs G, Murray JD, Cho Y, Anticevic A. Neuro-behavioral enrichment analysis in psychosis spectrum youth. *In progress.* (+co-first authors)
 
-Berkovitch L, Lee K, Ji JL, Demšar J, Kraljic A, Matkovic A, Tamayo Z, Murray JD, Repovš G, Anticevic A+, **Fonteneau C+**. Mapping Individually Brain-Behavior Space Variation Across the Mood Spectrum. Under review by co-authors. (+co-last author)
+Berkovitch L, Lee K, Ji JL, Demšar J, Kraljic A, Matkovic A, Tamayo Z, Murray JD, Repovš G, Anticevic A+, **Fonteneau C+**. Mapping Individually Brain-Behavior Space Variation Across the Mood Spectrum. *Under review by co-authors.* (+co-last author)
 
-**Fonteneau Clara**, Holmes Sophie, DeLorenzo Christine, Krystal John H, Carson Richard E, Esterlis Irina, Anticevic Alan; Ketamine and Depression - a Multimodal PET-MR Imaging Approach. In progress
+**Fonteneau Clara**, Holmes Sophie, DeLorenzo Christine, Krystal John H, Carson Richard E, Esterlis Irina, Anticevic Alan; Ketamine and Depression - a Multimodal PET-MR Imaging Approach. *In progress*
 
 #### Articles
+Kangjoo Lee, Jie Lisa Ji, **Clara Fonteneau**, Lucie Berkovitch, Masih Rahmati, Lining Pan, Grega Repovš, John H. Krystal, John D. Murray, Alan Anticevic; Human brain state dynamics reflect individual neuro-phenotypes; bioRxiv 2023.09.18.557763 [![doi](icons/doi-icon.png)](https://doi.org/10.1101/2023.09.18.557763) <span class="__dimensions_badge_embed__" data-doi="10.1101/2023.09.18.557763" data-hide-zero-citations="true" data-style="small_circle"></span>
+
 Psomiades Marion, Mondino Marine, **Fonteneau Clara**, Bation Rémy, Haesebaert Fréderic, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2018) N-Acetyl-Aspartate in the dorsolateral prefrontal cortex in men with schizophrenia and auditory verbal hallucinations: A 1.5T Magnetic Resonance Spectroscopy Study; Scientific Report [![doi](icons/doi-icon.png)](http://dx.doi.org/10.1038/s41598-018-22597-y) [![pdf](icons/pdf-icon.png)](/Papers/Psomiades_2018.pdf) <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-018-22597-y" data-hide-zero-citations="true" data-style="small_circle"></span>
 
 Psomiades Marion, **Fonteneau Clara**, Mondino Marine, Luck David, Haesebaert Frederic, Suaud-Chagny Marie-Françoise, Brunelin Jérome (2016) Integrity of the arcuate fasciculus in patients with schizophrenia with and without auditory verbal hallucinations: A DTI-tractography study; NeuroImage: Clinical [![doi](icons/doi-icon.png)](http://dx.doi.org/10.1016/j.nicl.2016.04.013) [![pdf](icons/pdf-icon.png)](/Papers/Psomiades_2016.pdf) <span class="__dimensions_badge_embed__" data-doi="10.1016/j.nicl.2016.04.013" data-hide-zero-citations="true" data-style="small_circle"></span>
 
 ## ***<a name="pharmaco"></a> Interventional pharmacological approaches in psychiatric disorders***
 #### Coming soon
-Rahmati M, Moujaesa F, Schleiferm C, Ji JL, **Fonteneau C**, Lee K, Tamayo Z, Santamauro N, Repov, G, Fineberg S, Krystal JH, Murray JD, Cho Y, Anticevic A. Effects of NMDA receptor antagonist Ketamine on neural tuning and working memory. Under review by co-authors
+Rahmati M, Moujaesa F, Schleiferm C, Ji JL, **Fonteneau C**, Lee K, Tamayo Z, Santamauro N, Repov, G, Fineberg S, Krystal JH, Murray JD, Cho Y, Anticevic A. Effects of NMDA receptor antagonist Ketamine on neural tuning and working memory. *Under review by co-authors*
 
 #### Articles
 Flora Moujaes, Jie Lisa Ji, Masih Rahmati, Joshua Burt, Charles H. Schleifer, Brendan Adkinson, Aleksandar Savič, Nicole Santamauro, Zailyn Tamayo, Caroline Diehl, Antonija Kolobaric, Morgan Flynn, Nathalie M. Rieser, **Clara Fonteneau**, Terry Camarro, Junqian Xu, Youngsun T. Cho, Grega Repovš, Sarah K. Fineberg, Peter Morgan, Erich Seifritz, Franz X. Vollenweider, John Krystal, John D. Murray, Katrin H. Preller, Alan Anticevic; Ketamine induces multiple individually distinct whole-brain functional connectivity signatures; bioRxiv 2022.11.01.514692 [![doi](icons/doi-icon.png)](https://doi.org/10.1101/2022.11.01.514692) <span class="__dimensions_badge_embed__" data-doi="10.1101/2022.11.01.514692" data-hide-zero-citations="true" data-style="small_circle"></span>
+
+Christian G. Kohler, Daniel H. Wolf, Anissa Abi-Dargham, Alan Anticevic, Youngsun T. Cho, **Clara Fonteneau**, Roberto Gil, Ragy R. Girgis, David L. Gray, Jack Grinband, Jonathan A. Javitch, Joshua T. Kantrowitz, John H. Krystal, Jeffrey A. Lieberman, John D. Murray, Mohini Ranganathan, Nicole Santamauro, Jared X. Van Snellenberg, Zailyn Tamayo, Deepak D'Souza, Vinod Srihari, Ralitza Gueorguieva, Prashant Patel, Kimberlee Forselius-Bielen, Jing Lu, Audrey Butler, Geena Fram, Yvette Afriyie-Agyemang, Alexandria Selloni, Laura Cadavid, Sandra Gomez-Luna, Aarti Gupta, Rajiv Radhakrishnan, Ali Rashid, Ryan Aker, Philisha Abrahim, Anahita Bassir Nia, Toral Surti, Lawrence S. Kegeles, Marlene Carlson, Terry Goldberg, James Gangwisch, Erinne Benedict, Preetika Govil, Stephanie Brazis, Megan Mayer, Nathalie de la Garrigue, Natalka Fallon, Topaz Baumvoll, Sameera Abeykoon, Greg Perlman, Kelly Bobchin, Mark Elliott, Lyndsay Schmidt, Sage Rush, Allison Port, Zac Heffernan, Nina Laney, Jenna Kantor, Thomas Hohing, Ruben C. Gur, Raquel E. Gur, Monica E. Calkins; Illness Phase as a Key Assessment and Intervention Window for Psychosis, Biological Psychiatry Global Open Science, Volume 3, Issue 3, 2023, Pages 340-350, ISSN 2667-1743 [![doi](icons/doi-icon.png)](https://doi.org/10.1016/j.bpsgos.2022.05.009) <span class="__dimensions_badge_embed__" data-doi="10.1016/j.bpsgos.2022.05.009" data-hide-zero-citations="true" data-style="small_circle"></span>
+
 
 Anissa Abi-Dargham, Jonathan A Javitch, Mark Slifstein, Alan Anticevic, Monica E Calkins, Youngsun T Cho, **Clara Fonteneau**, Roberto Gil, Ragy Girgis, Raquel E Gur, Ruben C Gur, Jack Grinband, Joshua Kantrowitz, Christian Kohler, John Krystal, John Murray, Mohini Ranganathan, Nicole Santamauro, Jared Van Snellenberg, Zailyn Tamayo, Daniel Wolf, TRANSCENDS Group, David Gray, Jeffrey Lieberman (2021) Dopamine D1R Receptor Stimulation as a Mechanistic Pro-cognitive Target for Schizophrenia; Schizophrenia Bulletin [![doi](icons/doi-icon.png)](https://doi.org/10.1093/schbul/sbab095) <span class="__dimensions_badge_embed__" data-doi="10.1093/schbul/sbab095" data-hide-zero-citations="true" data-style="small_circle"></span>
