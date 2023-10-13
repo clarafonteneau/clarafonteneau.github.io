@@ -9,28 +9,16 @@ header:
 <div class="navbar">
 	<div class="navbar-inner">
 		<ul class="nav">
-			<li><a href="#attention">Cognition</a></li>
 			<li><a href="#stim">Brain Stim</a></li>
 			<li><a href="#methods">Methods</a></li>
 			<li><a href="#neurobeh">Neuro-Behavior</a></li>
 			<li><a href="#pharmaco">Pharmacology</a></li>
+			<li><a href="#cognition">Cognition</a></li>
 		</ul>
 	</div>
 </div>
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-## ***<a name="attention"></a> Attentional Preparation and Distractibility***
-#### Articles
-Bidet-Caulet A, Bottemanne L, **Fonteneau C**, Giard M-H, Bertrand O (2014) Brain Dynamics of Distractibility: Interaction Between Top-Down and Bottom-Up Mechanisms of Auditory Attention. Brain Topography [![doi](icons/doi-icon.png)](http://dx.doi.org/10.1007/s10548-014-0354-x) [![pdf](icons/pdf-icon.png)](/Papers/Bidet-Caulet_2013.pdf) <span class="__dimensions_badge_embed__" data-doi="10.1007/s10548-014-0354-x" data-hide-zero-citations="true" data-style="small_circle"></span>
-
-#### Posters
-Intartaglia Bastien, ElShafei Hesham, **Fonteneau Clara**, Catenoix Hélène, Bonnefond Mathilde, Bertrand Olivier, Bidet-Caulet Aurélie; Brain oscillatory dynamics in the bottom-up/top-down balance of auditory attention: intracranial recordings; Poster presented at 2nd Salzburg Mind – Brain Annual Meeting, SAMBA 2018. [![pdf](icons/pdf-icon.png)](/Papers/2018_Abstract_AttAud_sEEG_SAMBA.pdf)
-
-#### Dissertation
-Master 2 thesis: **Fonteneau Clara** Mechanisms of attentional preparation in the auditory cortex
-
-Master 1 thesis: **Fonteneau Clara** Neurophysiological mechanisms of auditory attention in humans
 
 ## ***<a name="stim"></a> Mechanisms underlying transcranial stimulation in psychiatry***
 #### Coming soon
@@ -109,9 +97,9 @@ Reilhac Anthonin, Berrada Rania, Irace Zacharie, Merida Inés, **Fonteneau Clar
 
 ## ***<a name="neurobeh"></a> Leveraging multimodal neuro-behavioral approaches to investigate psychiatric disorders***
 #### Coming soon
-**Fonteneau C+**, Lee K+, Price A, Berkovitch L, Ji JL, Tamayo Z, Afriyle-Agyemang Y, Howell A, Repovs G, Murray JD, Cho Y, Anticevic A. Neuro-behavioral enrichment analysis in psychosis spectrum youth. *In progress.* (+co-first authors)
+**Fonteneau C**+, Lee K+, Price A, Berkovitch L, Ji JL, Tamayo Z, Afriyle-Agyemang Y, Howell A, Repovs G, Murray JD, Cho Y, Anticevic A. Neuro-behavioral enrichment analysis in psychosis spectrum youth. *In progress.* (+co-first authors)
 
-Berkovitch L, Lee K, Ji JL, Demšar J, Kraljic A, Matkovic A, Tamayo Z, Murray JD, Repovš G, Anticevic A+, **Fonteneau C+**. Mapping Individually Brain-Behavior Space Variation Across the Mood Spectrum. *Under review by co-authors.* (+co-last author)
+Berkovitch L, Lee K, Ji JL, Demšar J, Kraljic A, Matkovic A, Tamayo Z, Murray JD, Repovš G, Anticevic A+, **Fonteneau C**+. Mapping Individually Brain-Behavior Space Variation Across the Mood Spectrum. *Under review by co-authors.* (+co-last author)
 
 **Fonteneau Clara**, Holmes Sophie, DeLorenzo Christine, Krystal John H, Carson Richard E, Esterlis Irina, Anticevic Alan; Ketamine and Depression - a Multimodal PET-MR Imaging Approach. *In progress*
 
@@ -134,3 +122,15 @@ Christian G. Kohler, Daniel H. Wolf, Anissa Abi-Dargham, Alan Anticevic, Youngsu
 
 
 Anissa Abi-Dargham, Jonathan A Javitch, Mark Slifstein, Alan Anticevic, Monica E Calkins, Youngsun T Cho, **Clara Fonteneau**, Roberto Gil, Ragy Girgis, Raquel E Gur, Ruben C Gur, Jack Grinband, Joshua Kantrowitz, Christian Kohler, John Krystal, John Murray, Mohini Ranganathan, Nicole Santamauro, Jared Van Snellenberg, Zailyn Tamayo, Daniel Wolf, TRANSCENDS Group, David Gray, Jeffrey Lieberman (2021) Dopamine D1R Receptor Stimulation as a Mechanistic Pro-cognitive Target for Schizophrenia; Schizophrenia Bulletin [![doi](icons/doi-icon.png)](https://doi.org/10.1093/schbul/sbab095) <span class="__dimensions_badge_embed__" data-doi="10.1093/schbul/sbab095" data-hide-zero-citations="true" data-style="small_circle"></span>
+
+## ***<a name="cognition"></a> Cognition***
+#### Articles
+Bidet-Caulet A, Bottemanne L, **Fonteneau C**, Giard M-H, Bertrand O (2014) Brain Dynamics of Distractibility: Interaction Between Top-Down and Bottom-Up Mechanisms of Auditory Attention. Brain Topography [![doi](icons/doi-icon.png)](http://dx.doi.org/10.1007/s10548-014-0354-x) [![pdf](icons/pdf-icon.png)](/Papers/Bidet-Caulet_2013.pdf) <span class="__dimensions_badge_embed__" data-doi="10.1007/s10548-014-0354-x" data-hide-zero-citations="true" data-style="small_circle"></span>
+
+#### Posters
+Intartaglia Bastien, ElShafei Hesham, **Fonteneau Clara**, Catenoix Hélène, Bonnefond Mathilde, Bertrand Olivier, Bidet-Caulet Aurélie; Brain oscillatory dynamics in the bottom-up/top-down balance of auditory attention: intracranial recordings; Poster presented at 2nd Salzburg Mind – Brain Annual Meeting, SAMBA 2018. [![pdf](icons/pdf-icon.png)](/Papers/2018_Abstract_AttAud_sEEG_SAMBA.pdf)
+
+#### Dissertation
+Master 2 thesis: **Fonteneau Clara** Mechanisms of attentional preparation in the auditory cortex
+
+Master 1 thesis: **Fonteneau Clara** Neurophysiological mechanisms of auditory attention in humans
