@@ -107,7 +107,7 @@ author:
   email            : "fonteneau.clara@gmail.com"
   uri              : "https://clarafonteneau.github.io/"
   home             : # null (default), "absolute or relative url to link to author home" #
-  bitbucket        : "clarafonteneau"
+  bitbucket        : # "clarafonteneau"
   codepen          :
   dribbble         :
   flickr           :
@@ -120,7 +120,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "clara-fonteneau-6a7bb9295" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  orcid            : "0000-0003-2808-3867"
+  orcid            : #"0000-0003-2808-3867"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
