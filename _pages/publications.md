@@ -89,6 +89,8 @@ Exploration of PET modeling methods in the case of displacement by an endogenous
 *Journal Club CERMEP, Lyon*
 
 ### Posters
+**Fonteneau Clara**, Naganawa Mika, Holmes Sophie , Helmer Markus , Ji Jie Lisa , Esterlis Irina, Martin William J., Carson Richard E. , Anticevic Alan, Advancing PET Surface-based Analysis - Integration in a Multimodal Imaging Pipeline, Organization for Human Brain Mapping (OHBM), June 2024 
+
 Merida Inés, **Fonteneau Clara**, Reilhac Anthonin, Redouté Jérôme, Irace Zacharie, Suaud-Chagny Marie-Françoise, Hammers Alexander, Costes Nicolas; Motion correction and multi-atlas attenuation correction applied to a simultaneous bolus/infusion PET-MR brain study; Talk given (by I. Merida) at 6th PET-MRI and SPECT-MRI (PSMR) Conference; Lisbon, Portugal, May 2017 
 
 Merida Inés, Hammers Alexander, Redouté Jérôme, McGinnity Colm, **Fonteneau Clara**, Suaud-Chagny Marie-Françoise, Reilhac Anthonin, Costes Nicolas ; Attenuation correction with a multi-atlas method for brain PET-MR imaging: assessment with realistic simulated [11C]raclopride bolus-infusion PET data ; Poster presented at 28th International Symposium on Cerebral Blood Flow, Metabolism and Function & 13th International Conference on Quantification of Brain Function with PET; Berlin, Germany, April 2017
