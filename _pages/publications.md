@@ -99,7 +99,7 @@ Reilhac Anthonin, Berrada Rania, Irace Zacharie, Merida Inés, **Fonteneau Clar
 
 ## ***<a name="neurobeh"></a> Leveraging multimodal neuro-behavioral approaches to investigate psychiatric disorders***
 #### Coming soon
-**Fonteneau C**+, Lee K+, Price A, Berkovitch L, Ji JL, Tamayo Z, Afriyle-Agyemang Y, Howell A, Repovs G, Murray JD, Cho Y, Anticevic A. Neuro-behavioral enrichment analysis in psychosis spectrum youth. *In progress.* (+co-first authors)
+Lee K+, **Fonteneau C**+, Price A, Berkovitch L, Ji JL, Tamayo Z, Afriyle-Agyemang Y, Howell A, Repovs G, Murray JD, Cho Y, Anticevic A. Neuro-behavioral enrichment analysis in psychosis spectrum youth. *In progress.* (+co-first authors)
 
 **Fonteneau Clara**, Holmes Sophie, DeLorenzo Christine, Krystal John H, Carson Richard E, Esterlis Irina, Anticevic Alan; Ketamine and Depression - a Multimodal PET-MR Imaging Approach. *In progress*
 
